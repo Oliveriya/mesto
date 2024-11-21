@@ -1,3 +1,5 @@
+// Этого я не знаю, но код не стала удалять. Пук.
+
 function closeModalOnEsc(evt) {
   const openedPopup = document.querySelector(".popup_is-opened");
   if (evt.key === "Escape") {
