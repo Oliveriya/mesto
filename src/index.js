@@ -24,14 +24,14 @@ const cardsContainer = container.querySelector('.places__list');
 const cardElement = cardsContainer.querySelector('.places__item');
 
 const popup = document.querySelectorAll('.popup');
-const popClose = popup.querySelectorAll('.popup__close');
-const popupCard = popup.querySelectorAll('.popup__content');
-const popupImage = popup.querySelector('.popup__image');
-const popupCaption = popup.querySelector('.popup__caption');
-const openImage = 
+// const popClose = popup.querySelectorAll('.popup__close');
+// const popupCard = popup.querySelectorAll('.popup__content');
+// const popupImage = popup.querySelector('.popup__image');
+// const popupCaption = popup.querySelector('.popup__caption');
+//const openImage = 
 const popupInput = document.querySelectorAll('.popup__input');
 const popupForm = document.querySelectorAll('.popup__form');
 const cardTemplate = document.querySelector('#card-template');
 
-const buttonProfileAdd = 
-const buttonProfileEdit = 
+// const buttonProfileAdd = 
+// const buttonProfileEdit = 
